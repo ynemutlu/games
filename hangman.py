@@ -22,7 +22,7 @@ def ShowHangMan(failed):
 
 def main():
     GetSecretWord()
-    ShowHangMan(4)
+    ShowHangMan(0)
 
 
 
